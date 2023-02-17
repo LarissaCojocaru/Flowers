@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    background-color: rgba(232, 7, 7, 0.788);
+}
+.site-name{
+    padding: 0px 30px;
+    color: rgb(0, 249, 120);
+}
+.site-menu{
+    padding: 10px 30px;
+    margin-left: 100px;
+
+}
+
+a{
+    text-decoration: none;
+    color: rgba(96, 235, 105, 0.951);
+    margin: 0px 10px;
+}

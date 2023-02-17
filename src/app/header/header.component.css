@@ -1,0 +1,17 @@
+.header{
+    height: 280px;
+    padding: 30px 40px;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+.site-slogan{
+width: 420px;
+margin-left: 50px;
+text-align: center;
+color: green;
+
+}
+h2{
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
